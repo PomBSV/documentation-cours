@@ -1,6 +1,6 @@
 
 
-# Word count example
+# Word count example with changes for webpage in github
 
 These programs will count words in a given text, plot a bar chart of the 10
 most common words, and test [Zipf's
